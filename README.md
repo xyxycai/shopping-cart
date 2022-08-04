@@ -1,15 +1,15 @@
 # shopping-cart
 
-Prerequisites
+## Prerequisites
 
 * Python 3.8+
 * Anaconda
 
-Description
+## Description
 
 The program asks the user to input one or more product identifiers, then looks up the prices for each in hardcoded list of dictionaries, then prints an itemized customer receipt including the total amount owed.
 
-Setup
+## Setup
 
 Clone the repository to your local repo
 
@@ -23,4 +23,6 @@ conda activate shopping-env
 
 launch program with:
 
-python shopping-cart
+python shopping-cart.py
+
+**Cathy Cai N14588143**

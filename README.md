@@ -25,4 +25,3 @@ launch program with:
 
 python shopping-cart.py
 
-**Cathy Cai N14588143**
